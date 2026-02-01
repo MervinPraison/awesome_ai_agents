@@ -990,6 +990,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Modus](https://github.com/hypermodeinc/modus) - An open source, serverless framework for building intelligent agents and APIs in Go or AssemblyScript (a TypeScript-like language). [github](https://github.com/hypermodeinc/modus)
 - [OpenAI Swarm](https://github.com/openai/swarm) - Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.
 - [Phidata](https://github.com/phidatahq/phidata) - Build multi-modal Agents with memory, knowledge, tools and reasoning. Chat with them using a beautiful Agent UI.
+- [Pinchwork](https://github.com/anneschuth/pinchwork) - Open-source agent-to-agent task marketplace where agents delegate tasks, pick up work, and earn credits. REST API, Python SDK, LangChain/CrewAI/MCP integrations. [github](https://github.com/anneschuth/pinchwork) | [website](https://pinchwork.dev)
 - [Portia AI](https://github.com/portiaAI/portia-sdk-python/) - Portia is a new open source agentic Python framework designed for creating reliable agents in production. [github](https://github.com/portiaAI/portia-sdk-python)
 - [Strands Agents SDK](https://github.com/strands-agents/sdk-python) - A model-driven approach to building AI agents in just a few lines of code. [github](https://github.com/strands-agents/sdk-python)
 - [Upsonic](https://github.com/upsonic/upsonic) - Reliable agent framework that supports MCP. [github](https://github.com/upsonic/upsonic)
